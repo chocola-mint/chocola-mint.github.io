@@ -11,7 +11,7 @@
             Most of my games are fangames of Team Shanghai Alice's Touhou Project. You can check them out on my 
             <OpenInNewTab href="https://chocola-mint.itch.io">Itch</OpenInNewTab> page. I'm fluent in English, and good enough in Japanese to prepare online presentations.
             <br><br>
-            I'm also a generalist who's trying to branch into other creative fields, such as <OpenInNewTab href="https://www.pixiv.net/users/35917669">digital illustrations</OpenInNewTab>. Recently, I'm also self-studying 3DCG.
+            I'm also a generalist who's trying to branch into other creative fields, such as <OpenInNewTab href="https://www.pixiv.net/users/35917669">pixel art</OpenInNewTab>.
             <br><br>
             Currently, my game engines of choice are Unity and Godot, though I'm always open to trying other options.
             <br><br>
@@ -23,13 +23,16 @@
         <Title>Professional Experience</Title>
         <Content>
             <ul>
-                <li>Teaching Assistant for the undergraduate course "Software Studio (CS241002)" at NTHU. (2022 Spring)
-                    <ul><li>Provided extensive support for game development-related issues to students.</li></ul>
-                </li>
-                <li>Teaching Assistant for the graduate course "Game Programming (CS550300)" at NTHU. (2022 Fall)
+                <li>Programmer for the freeware game <OpenInNewTab href="https://unityroom.com/games/qside">Q-Side</OpenInNewTab>. (2024 Winter)
                     <ul>
-                        <li>Pushed for much-needed updates to the course material, introducing new material such as a chapter on Cinemachine and removing old ones.</li>
-                        <li>Also helped with game design-related issues.</li>
+                        <li>Prototype implementation of gameplay systems.</li>
+                        <li>A lot of bug fixes.</li>
+                    </ul>
+                </li>
+                <li>Programmer (contractor) for the Godot-powered indie game <OpenInNewTab href="https://store.steampowered.com/app/2081230/Parry_Nightmare/">Parry Nightmare (PC)</OpenInNewTab>. (2024 Spring)
+                    <ul>
+                        <li>Worked on CPU optimization.</li>
+                        <li>Also provided additional programming support.</li>
                     </ul>
                 </li>
                 <li>Founder, Club President, and Lecturer at the NTHU Game Development Club (NTHUGDC). (2022~2023)
@@ -39,11 +42,14 @@
                         <li>Regularly provided game development-related resources to club members within the club Discord server.</li>
                     </ul>
                 </li>
-                <li>Programmer (contractor) for the Godot-powered indie game <OpenInNewTab href="https://store.steampowered.com/app/2081230/Parry_Nightmare/">Parry Nightmare (PC)</OpenInNewTab>. (2024 Spring)
+                <li>Teaching Assistant for the graduate course "Game Programming (CS550300)" at NTHU. (2022 Fall)
                     <ul>
-                        <li>Worked on CPU optimization.</li>
-                        <li>Also provided additional programming support.</li>
+                        <li>Pushed for much-needed updates to the course material, introducing new material such as a chapter on Cinemachine and removing old ones.</li>
+                        <li>Also helped with game design-related issues.</li>
                     </ul>
+                </li>
+                <li>Teaching Assistant for the undergraduate course "Software Studio (CS241002)" at NTHU. (2022 Spring)
+                    <ul><li>Provided extensive support for game development-related issues to students.</li></ul>
                 </li>
             </ul>
         </Content>
@@ -53,6 +59,7 @@
         <Title>Awards</Title>
         <Content>
             <ul>
+                <li><OpenInNewTab href="https://chocola-mint.itch.io/kanako-vs-suika">Touhou Fan Game Jam 15</OpenInNewTab> - 1st Place in Graphics</li>
                 <li><OpenInNewTab href="https://unityroom.com/games/shijiquest">unity1week Game Jam お題「つたえる」</OpenInNewTab> - 3rd Place in Innovation.</li>
                 <li><OpenInNewTab href="https://unityroom.com/games/amebrella">unity1week Game Jam お題「ふる」</OpenInNewTab> - 14th Place Overall, 7th in Graphics, 6th in Atmosphere.</li>
                 <li><OpenInNewTab href="https://unityroom.com/games/hakase-vs-kaiju">unity1week Game Jam お題「1ボタン」</OpenInNewTab> - 8th Place Overall, 1st Place in Fun.</li>

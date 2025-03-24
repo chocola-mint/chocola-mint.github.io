@@ -12,7 +12,7 @@
         position: fixed;
         top: 0;
         left: 0;
-        background-color:rgb(151, 175, 175);
+        background-color:rgb(173, 181, 202);
     }
     .main{
         display:flex;
@@ -66,8 +66,8 @@
         min-height: 20vh;
         width: 100%;
         
-        background-color:darkslategray;
-        color:rgb(136, 175, 175);
+        background-color:rgb(47, 66, 79);
+        color:rgb(136, 166, 175);
         position: relative;
     }
     
@@ -132,12 +132,12 @@
     </div>
     <footer>
         <div style="position:relative;top:2em;align-items:center;display:flex;flex-direction:column;gap=10px">
-            <div>ChocolaMint・2023</div>
+            <div>ChocolaMint・2025</div>
             <div style="margin-top:0.5em">
-                <OpenInNewTab href="https://github.com/chocola-mint/chocola-mint.github.io" style="color:rgb(116, 155, 155)">Source Code</OpenInNewTab>
+                <OpenInNewTab href="https://github.com/chocola-mint/chocola-mint.github.io" style="color:rgb(126, 136, 175)">Source Code</OpenInNewTab>
             </div>
             <!-- svelte-ignore a11y-invalid-attribute -->
-            <div style="margin-top:0.5em"><a href="#top" style="color:rgb(116, 155, 155)">Back to Top</a></div>
+            <div style="margin-top:0.5em"><a href="#top" style="color:rgb(126, 136, 175)">Back to Top</a></div>
         </div>
     </footer>
 </div>

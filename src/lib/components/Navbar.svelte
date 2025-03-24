@@ -7,7 +7,7 @@
 </style>
 <div bind:this={anchorBeforeNav}/>
 <TabBar tabs={Object.keys(pages)} let:tab bind:active style="
-    position: sticky; top: 0; z-index: 4; background-color:rgb(116, 163, 151);">
+    position: sticky; top: 0; z-index: 4; background-color:rgb(65, 116, 151);">
     <Wrapper>
         <Tab
         {tab}

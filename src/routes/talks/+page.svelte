@@ -20,6 +20,28 @@
 </script>
 
 <Paper>
+    <Title>Non-Destructive Workflow for 2D Action Games</Title>
+    <Content>
+        📅 Date: 1/18/2025
+        <br>
+        🌏 Location: unity1week online 共有会 #17 (YouTube Live / Zoom)
+        <br>
+        💬 Language: Japanese
+        <br><br>
+        In this presentation, I introduced a novel (to my knowledge) workflow for gameplay-integrated 2D sprite animations using Unity's Aseprite Importer and Timeline packages.
+        The workflow presented is non-destructive, enabling a smooth workflow that allows artists to iterate freely without breaking Unity assets.
+        <br><br>
+        <Button variant="raised" href="https://www.youtube.com/watch?v=ghD3N0ahA2w&t=2504s" target="_blank" rel="noopener noreferrer">
+            <Label>Video Archive</Label>
+        </Button>
+    </Content>
+    <br>
+    <div class="content">
+        <iframe title="Non-Destructive Workflow for 2D Action Games" src="https://docs.google.com/presentation/d/e/2PACX-1vSudcNZC7_6PG3ickuiykRqNeBklIWYczPBbKNT-kw92euYCEgHuWo_ZYrV98yAp9Q7sK4WTK2v9fgl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+    </div>
+</Paper>
+<br>
+<Paper>
     <Title>Welcome to HAKASE-chan's World!</Title>
     <Content>
         📅 Date: 10/14/2023
