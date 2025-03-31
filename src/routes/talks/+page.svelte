@@ -20,6 +20,32 @@
 </script>
 
 <Paper>
+    <Title>The 2D Rendering Optimization of Parry Nightmare</Title>
+    <Content>
+        📅 Date: 3/27/2025
+        <br>
+        🌏 Location: Godot Meetup Tokyo Vol. 4 (in-person)
+        <br>
+        💬 Language: Japanese
+        <br><br>
+        In this presentation, I explained how the rendering of the Godot-powered 2D game, Parry Nightmare, is optimized in the console port.
+        The presentation centers around <i>instancing</i> and <i>batching</i>, both common optimizations in 2D games. Practical examples and solutions
+        are shown to explain what interferes with 2D automatic batching and how to solve them.
+        <br><br>
+        <Button variant="raised" disabled>
+            <Label>Video Archive</Label>
+        </Button>
+        <Button variant="raised" href="https://docs.google.com/presentation/d/e/2PACX-1vTveRtl5tpKGbg7vbdozoFbjnNCmqZYJaB43C_WdC1VB0dsM3UTMFLY1SlqV_DnT6h0hSFW2ghCNfgV/pub" target="_blank" rel="noopener noreferrer">
+            <Label>English Ver. (Slides only)</Label>
+        </Button>
+    </Content>
+    <br>
+    <div class="content">
+        <iframe title="The 2D Rendering Optimization of Parry Nightmare" src="https://docs.google.com/presentation/d/e/2PACX-1vRTUxtH6AT6Hd49oDodRjqxqfkft4-R-4yrlZjPRArv5Zts5cJsaqLymtry7qIqdU-8Bp7erF6BMPy-/embed" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+    </div>
+</Paper>
+<br>
+<Paper>
     <Title>Non-Destructive Workflow for 2D Action Games</Title>
     <Content>
         📅 Date: 1/18/2025
